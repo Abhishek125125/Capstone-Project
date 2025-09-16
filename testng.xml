@@ -1,0 +1,10 @@
+
+<suite name="Capstone_Project_Phase1_Suite" verbose="1" parallel="false">
+
+  <test name="Phase1-Login-DDT-Tests">
+    <classes>
+      <class name="com.Capstone_Project.phase1.tests.loginTest"/>
+    </classes>
+  </test>
+
+</suite>

@@ -1,0 +1,12 @@
+
+<?xml-model href=""?>
+<suite name="Capstone_Project_Phase2_Suite" verbose="1" parallel="false" preserve-order="true">
+
+  <test name="Phase2-Login-Admin-Tests">
+    <classes>
+      <class name="com.Capstone_Project.phase2.tests.LoginPageTest"/>
+      <class name="com.Capstone_Project.phase2.tests.AdminPageTest"/>
+    </classes>
+  </test>
+
+</suite>

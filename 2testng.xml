@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Capstone-Phase2-Suite" verbose="1" parallel="false">
+    <test name="Phase2-ByPackage">
+        <packages>
+            <!-- Use this if your Phase2 tests live under this package -->
+            <package name="com.Capstone_Project.phase1.tests"/>
+        </packages>
+    </test>
+</suite>

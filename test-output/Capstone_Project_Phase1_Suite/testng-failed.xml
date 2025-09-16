@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Capstone_Project_Phase1_Suite]">
+  <test thread-count="5" name="Phase1-Login-DDT-Tests(failed)">
+    <classes>
+      <class name="com.Capstone_Project.phase1.tests.loginTest">
+        <methods>
+          <include name="setupExcel"/>
+          <include name="flushReport"/>
+          <include name="afterMethod"/>
+          <include name="setupBrowser"/>
+          <include name="startReport"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.Capstone_Project.phase1.tests.loginTest -->
+    </classes>
+  </test> <!-- Phase1-Login-DDT-Tests(failed) -->
+</suite> <!-- Failed suite [Capstone_Project_Phase1_Suite] -->

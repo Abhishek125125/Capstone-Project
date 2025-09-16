@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T19:31:21 IST" name="Default suite" finished-at="2025-09-15T19:31:42 IST" duration-ms="21038">
+    <groups>
+    </groups>
+    <test started-at="2025-09-15T19:31:21 IST" name="Default test" finished-at="2025-09-15T19:31:42 IST" duration-ms="21038">
+      <class name="com.capstone.tests.CompleteTestSuite">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:21 IST" name="setupSuite" finished-at="2025-09-15T19:31:21 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method signature="addUser()[pri:1, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:21 IST" name="addUser" finished-at="2025-09-15T19:31:26 IST" duration-ms="4750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method signature="getUserProfile()[pri:2, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:26 IST" name="getUserProfile" finished-at="2025-09-15T19:31:27 IST" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserProfile -->
+        <test-method signature="updateUser()[pri:3, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:27 IST" name="updateUser" finished-at="2025-09-15T19:31:29 IST" duration-ms="1887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="loginUser()[pri:4, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:29 IST" name="loginUser" finished-at="2025-09-15T19:31:31 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method signature="addContact()[pri:5, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:31 IST" name="addContact" finished-at="2025-09-15T19:31:34 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method signature="getContactList()[pri:6, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:34 IST" name="getContactList" finished-at="2025-09-15T19:31:36 IST" duration-ms="1884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactList -->
+        <test-method signature="getSingleContact()[pri:7, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:36 IST" name="getSingleContact" finished-at="2025-09-15T19:31:37 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleContact -->
+        <test-method signature="updateContactPUT()[pri:8, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:37 IST" name="updateContactPUT" finished-at="2025-09-15T19:31:39 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContactPUT -->
+        <test-method signature="updateContactPATCH()[pri:9, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:39 IST" name="updateContactPATCH" finished-at="2025-09-15T19:31:40 IST" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContactPATCH -->
+        <test-method signature="logoutUser()[pri:10, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:40 IST" name="logoutUser" finished-at="2025-09-15T19:31:42 IST" duration-ms="1613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:com.capstone.tests.CompleteTestSuite@dd05255]" started-at="2025-09-15T19:31:42 IST" name="tearDownSuite" finished-at="2025-09-15T19:31:42 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- com.capstone.tests.CompleteTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

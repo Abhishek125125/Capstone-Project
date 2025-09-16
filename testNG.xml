@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BrowserStackDemoAutomationSuite" verbose="2" parallel="false">
+
+    <!-- Login Tests -->
+    <test name="LoginTests">
+        <classes>
+            <class name="com.BrowserStack_project.tests.LoginTest" />
+        </classes>
+    </test>
+
+    <!-- Product Tests -->
+    <test name="ProductTests">
+        <classes>
+            <class name="com.BrowserStack_project.tests.ProductTest" />
+        </classes>
+    </test>
+
+    <!-- Add To Cart Tests -->
+    <test name="AddToCartTests">
+        <classes>
+            <class name="com.BrowserStack_project.tests.AddToCartTest" />
+        </classes>
+    </test>
+
+    <!-- Checkout Tests -->
+    <test name="CheckoutTests">
+        <classes>
+            <class name="com.BrowserStack_project.tests.CheckoutTest" />
+        </classes>
+    </test>
+
+</suite>
